@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a data scientist and software engineer at JHU/APL. I am interested in ML, NLP, and sociolinguistics. I make web and mobile applications in my free time, most of these projects are just for fun!
-[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=erafkin)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=erafkin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **erafkin/erafkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋
+
 I am a data scientist and software engineer at JHU/APL. I am interested in ML, NLP, and sociolinguistics. I make web and mobile applications in my free time, so most of these projects are just for fun! Check out [my website](http://emmarafkin.com/) for more!
 <br/>
 

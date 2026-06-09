@@ -1,5 +1,5 @@
 
-I am an NLP research scientist at JHU/APL. I recently completed my M.S in [Computational Linguistics](https://gucl.georgetown.edu/) at Georgetown University. I am interested in ML, NLP, low-resource languages, and sociolinguistics. I sometimes make web and mobile applications in my free time, so most of these projects are just for fun! Check out [my website](http://emmarafkin.com/) for more!
+I am an NLP research scientist at JHU/APL. I recently completed my M.S in [Computational Linguistics](https://gucl.georgetown.edu/) at Georgetown University. I am interested in ML, AI transparency, NLP, low-resource languages, and sociolinguistics. I sometimes make web and mobile applications in my free time, so most of these projects are just for fun! Check out [my website](http://emmarafkin.com/) for more!
 <br/>
 
 <!--
